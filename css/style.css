@@ -1,0 +1,318 @@
+.caixa {
+  width: 80%;
+  margin-bottom: 20px;
+}
+
+.btn-login {
+  width: 25%;
+  padding: 10px 20px;
+}
+
+.menu {
+  background-color: #2F9E41 ;
+  width: 100%;
+  padding: 25px;
+  margin: 0px;
+  box-shadow: 0px 3px 10px #bbb;
+}
+
+.menu a {
+  color: #fff;
+  font-size: 20px;
+  margin-left: 10px;
+  padding: 20px;
+}
+.menu a:hover {
+  background-color: #008042;
+  text-decoration: none;
+}
+
+#tabela {
+  align-self: center;
+  margin: auto;
+  background-color: #fff;
+  margin: 0px 50px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px #ccc;
+  width: 80%;
+}
+
+.tabela-1 {
+  background-color: #aaaaaa00;
+  display: flex;
+  border: none;
+  width: 100%;
+  border-bottom: #333 2px solid;
+  font-weight: bold;
+}
+.tabela-1 td {
+  padding: 20px;
+  border: solid 2px;
+  border: 0px;
+  margin-left: 30px;
+  width: 50%;
+  
+}
+.tabela-1 td:hover {
+  font-weight: bold;
+}
+
+.tabela-2 {
+ 
+  display: flex;
+  border: none;
+  width: 100%;
+  
+}
+
+.tabela-2:last-child{
+  border-radius: 0px 0px 5px 5px;
+}
+
+.tabela-2 td {
+  padding: 20px;
+  margin-left: 30px;
+  width: 50%;
+ 
+}
+#tabela tr:nth-child(odd) {
+  border:solid 1px #ccc;
+  background-color: #EFEFEF !important;  
+}
+
+#tabela tr:nth-child(n+2):hover {
+  background-color: #DAEEF7 !important;
+  color:#007;
+}
+
+
+.encerrado {
+  color: red;
+
+  font-weight: 600;
+  font-size: 18px;
+  opacity: 1;
+}
+.aberto {
+  color: green;
+  font-weight: 600;
+  font-size: 18px;
+  opacity: 1;
+}
+.iniciar{
+    color: darkblue;
+    font-weight: 600;
+    font-size: 18px;
+    opacity: 1;
+}
+#title {
+  text-align: left;
+  margin-left: 30px;
+}
+#msg {
+  color: red;
+}
+
+.form-check-label{
+  position: relative;
+  text-align: center;
+  top:25px;
+  left:-15px;
+}
+
+.criterio {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+}
+
+
+
+.avaliacao{
+    width:80%;
+    padding:50px;
+    justify-content: center;
+    align-self: center;
+    border-radius: 20px;
+    box-shadow: 0px 0px 5px #ccc;
+    margin-bottom: 50px;
+}
+
+.avaliacao button{
+    margin-top:0px;
+}
+
+.avaliacao div{
+    margin-bottom: 80px;
+}
+
+#tabelaNota{
+  border:solid 1px #bbb;
+  box-shadow: 0px 0px 5px #ccc;
+  width:80%;
+  
+}
+
+#tabelaNota td{
+  padding:20px;
+  border:solid 1px #bbb;
+  width:80%;
+}
+.tabelaNota2{
+  
+  width:100%;
+}
+.aprovado{
+  background: #dfd;
+}
+.reprovado{
+  background: #fdd;
+}
+
+.aprovado:hover{
+  background: #7d8;
+}
+.reprovado:hover{
+  background: #faa;
+}
+
+.tabelaNota1{
+  font-weight: bold;
+  background: rgb(231, 231, 239);
+}
+
+
+.divPostar{
+    width:75%;
+
+    padding:20px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 5px #ccc;
+}
+
+.divPostar input .divPostar textarea {
+    margin-top: 20px;
+    margin-bottom: 0px;
+    width:90%;
+}
+.legenda{
+    text-align: left;
+    float: left;
+    position: relative;
+   
+}
+.divPostar button{
+  margin-top: 20px;
+  width:200px;
+}
+#pic_input{
+  display: none;
+}
+
+.pic{
+
+  height:400px;
+  width:400px;
+  background:#ccc;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color:#aaa;
+  border:  currentColor 4px dashed;
+  cursor: pointer;
+  font-family: sans-serif;
+  transition:color 300ms ease-in-out, background 300ms ease-in-out, ouline 300ms ease-in-out;
+  outline: 2px solid #fff;
+}
+.pic:hover{
+  color:#66AFE9;
+  background-color: #66AFE988;
+}
+
+.pic:active{
+  background-color: #66AFE988 ;
+  border-color: #66AFE9;
+}
+.pic:focus{
+  box-shadow: 0px 0px 10px #66AFE9;
+  outline: 2px solid #66AFE9;
+} 
+
+.pic_img{
+
+  background-color: transparent;
+}
+.imagem{
+  resize:both;
+  height:400px;
+  width:400px;
+  background-color: transparent;
+}
+#nomeArquivo{
+  color:darkblue;
+  margin-bottom: 20px;
+  padding:15px;
+  font-size: 16px;
+
+}
+
+.sumir{
+  display:none;
+}
+#avalRes, #avalForm{
+  margin-top:50px;
+}
+
+#avalRes button{
+  margin-top:30px;
+}
+
+#tabela{
+  font-size: 18px;
+}
+
+.desc{
+  text-align: left;
+  font-weight: 500;
+}
+
+#logo{
+  display: inline-block;
+  width:150px;
+  justify-content: center;
+
+}
+#logo img{
+  width:50px;
+  height: 50px;
+  align-self: center;
+}
+#logo p{
+  text-align: center;
+}
+#posts{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap:20px;
+}
+
+.post{
+  box-sizing: border-box;
+  background-color: #fff;
+
+  padding:20px;
+}
+.post:hover{
+  background-color: #eff;
+}
+.postImg{
+  width:300px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 20px #00000055;
+}
+.post h3, .post h4{
+  width:80%;
+}
+.evento:hover{
+  cursor:pointer;
+}

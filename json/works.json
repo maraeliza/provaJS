@@ -1,0 +1,383 @@
+[
+    {
+        "id":"01",
+        "titulo":"Diagnose Foliar - Trabalho IFTM Campus Uberlândia",
+        "descricao":"Trabalho desenvolvido por alunos do curso Técnico em Agropecuária da IFTM campus  Uberlândia!",
+        "link":"https://www.youtube.com/embed/-D7KCi0-A20?si=szKfb_C4-soSGj6z",
+        "avaliadores":[
+            {"idUsuario":"01"},
+            {"idUsuario":"03"}
+            
+        ],
+        "avaliado":true,
+        "notas":{
+            "a":10,
+            "b":9,
+            "c":8,
+            "d":5,
+            "e":7,
+            "f":9
+        }
+    },
+    {
+        "id":"02",
+        "titulo":"Pedologia - Luvissolos IFTM",
+        "descricao":"Trabalho referente a disciplina de pedologia com o tema LUVISSOLOS, realizado pelos alunos Bruno Eleuterio, João Campanhã e Pedro Felipe do IFTM Campus Uberaba.",
+        "link":"https://www.youtube.com/embed/oLwXfocKWwQ?si=ns2t_c3-nnKQbdTk",
+        "avaliadores":[
+            {"idUsuario":"01"},
+            {"idUsuario":"03"}
+        ],
+        "avaliado":false,
+        "notas":{
+            "a":0,
+            "b":0,
+            "c":0,
+            "d":0,
+            "e":0,
+            "f":0
+        }
+    },
+    {
+        "id":"03",
+        "titulo":"Apresentação de Seminário Turma 1° ano A - Tecnologia",
+        "descricao":"Trabalho desenvolvido por alunos do 1º ano A",
+        "link":"https://www.youtube.com/embed/XRa4hh4CQOg?si=YfGlHRCGVdsemtJP",
+        "avaliadores":[
+            {"idUsuario":"01"},
+            {"idUsuario":"04"}
+        ],
+        "avaliado":false,
+        "notas":{
+            "a":0,
+            "b":0,
+            "c":0,
+            "d":0,
+            "e":0,
+            "f":0
+        }
+    },
+    {
+        "id":"04",
+        "titulo":"Diagnose Foliar - Trabalho IFTM Campus Uberlândia",
+        "descricao":"Trabalho desenvolvido por alunos do curso Técnico em Agropecuária da IFTM campus  Uberlândia!",
+        "link":"https://www.youtube.com/embed/-D7KCi0-A20?si=szKfb_C4-soSGj6z",
+        "avaliadores":[
+            {"idUsuario":"08"},
+            {"idUsuario":"04"}
+        ],
+        "avaliado":false,
+        "notas":{
+            "a":0,
+            "b":0,
+            "c":0,
+            "d":0,
+            "e":0,
+            "f":0
+        }
+    },
+    {
+        "id":"05",
+        "titulo":"Diagnose Foliar - Trabalho IFTM Campus Uberlândia",
+        "descricao":"Trabalho desenvolvido por alunos do curso Técnico em Agropecuária da IFTM campus  Uberlândia!",
+        "link":"https://www.youtube.com/embed/-D7KCi0-A20?si=szKfb_C4-soSGj6z",
+        "avaliadores":[
+            {"idUsuario":"05"},
+            {"idUsuario":"04"}
+        ],
+        "avaliado":false,
+        "notas":{
+            "a":0,
+            "b":0,
+            "c":0,
+            "d":0,
+            "e":0,
+            "f":0
+        }
+    },
+    {
+        "id":"06",
+        "titulo":"Diagnose Foliar - Trabalho IFTM Campus Uberlândia",
+        "descricao":"Trabalho desenvolvido por alunos do curso Técnico em Agropecuária da IFTM campus  Uberlândia!",
+        "link":"https://www.youtube.com/embed/-D7KCi0-A20?si=szKfb_C4-soSGj6z",
+        "avaliadores":[
+            {"idUsuario":"06"},
+            {"idUsuario":"04"}
+        ],
+        "avaliado":false,
+        "notas":{
+            "a":0,
+            "b":0,
+            "c":0,
+            "d":0,
+            "e":0,
+            "f":0
+        }
+    },
+    {
+        "id":"07",
+        "titulo":"Diagnose Foliar - Trabalho IFTM Campus Uberlândia",
+        "descricao":"Trabalho desenvolvido por alunos do curso Técnico em Agropecuária da IFTM campus  Uberlândia!",
+        "link":"https://www.youtube.com/embed/-D7KCi0-A20?si=szKfb_C4-soSGj6z",
+        "avaliadores":[
+            {"idUsuario":"08"},
+            {"idUsuario":"04"}
+        ],
+        "avaliado":false,
+        "notas":{
+            "a":0,
+            "b":0,
+            "c":0,
+            "d":0,
+            "e":0,
+            "f":0
+        }
+    },
+    {
+        "id":"08",
+        "titulo":"Diagnose Foliar - Trabalho IFTM Campus Uberlândia",
+        "descricao":"Trabalho desenvolvido por alunos do curso Técnico em Agropecuária da IFTM campus  Uberlândia!",
+        "link":"https://www.youtube.com/embed/-D7KCi0-A20?si=szKfb_C4-soSGj6z",
+        "avaliadores":[
+            {"idUsuario":"09"},
+            {"idUsuario":"04"}
+        ],
+        "avaliado":false,
+        "notas":{
+            "a":0,
+            "b":0,
+            "c":0,
+            "d":0,
+            "e":0,
+            "f":0
+        }
+    },
+    {
+        "id":"09",
+        "titulo":"Diagnose Foliar - Trabalho IFTM Campus Uberlândia",
+        "descricao":"Trabalho desenvolvido por alunos do curso Técnico em Agropecuária da IFTM campus  Uberlândia!",
+        "link":"https://www.youtube.com/embed/-D7KCi0-A20?si=szKfb_C4-soSGj6z",
+        "avaliadores":[
+            {"idUsuario":"02"},
+            {"idUsuario":"04"}
+        ],
+        "avaliado":false,
+        "notas":{
+            "a":0,
+            "b":0,
+            "c":0,
+            "d":0,
+            "e":0,
+            "f":0
+        }
+    },
+    {
+        "id":"10",
+        "titulo":"Diagnose Foliar - Trabalho IFTM Campus Uberlândia",
+        "descricao":"Trabalho desenvolvido por alunos do curso Técnico em Agropecuária da IFTM campus  Uberlândia!",
+        "link":"https://www.youtube.com/embed/-D7KCi0-A20?si=szKfb_C4-soSGj6z",
+        "avaliadores":[
+            {"idUsuario":"02"},
+            {"idUsuario":"04"}
+        ],
+        "avaliado":false,
+        "notas":{
+            "a":0,
+            "b":0,
+            "c":0,
+            "d":0,
+            "e":0,
+            "f":0
+        }
+    },
+    {
+        "id":"11",
+        "titulo":"Diagnose Foliar - Trabalho IFTM Campus Uberlândia",
+        "descricao":"Trabalho desenvolvido por alunos do curso Técnico em Agropecuária da IFTM campus  Uberlândia!",
+        "link":"https://www.youtube.com/embed/-D7KCi0-A20?si=szKfb_C4-soSGj6z",
+        "avaliadores":[
+            {"idUsuario":"02"},
+            {"idUsuario":"04"}
+        ],
+        "avaliado":false,
+        "notas":{
+            "a":0,
+            "b":0,
+            "c":0,
+            "d":0,
+            "e":0,
+            "f":0
+        }
+    },
+    {
+        "id":"12",
+        "titulo":"Diagnose Foliar - Trabalho IFTM Campus Uberlândia",
+        "descricao":"Trabalho desenvolvido por alunos do curso Técnico em Agropecuária da IFTM campus  Uberlândia!",
+        "link":"https://www.youtube.com/embed/-D7KCi0-A20?si=szKfb_C4-soSGj6z",
+        "avaliadores":[
+            {"idUsuario":"02"},
+            {"idUsuario":"04"}
+        ],
+        "avaliado":false,
+        "notas":{
+            "a":0,
+            "b":0,
+            "c":0,
+            "d":0,
+            "e":0,
+            "f":0
+        }
+    },
+    {
+        "id":"13",
+        "titulo":"Diagnose Foliar - Trabalho IFTM Campus Uberlândia",
+        "descricao":"Trabalho desenvolvido por alunos do curso Técnico em Agropecuária da IFTM campus  Uberlândia!",
+        "link":"https://www.youtube.com/embed/-D7KCi0-A20?si=szKfb_C4-soSGj6z",
+        "avaliadores":[
+            {"idUsuario":"02"},
+            {"idUsuario":"04"}
+        ],
+        "avaliado":false,
+        "notas":{
+            "a":0,
+            "b":0,
+            "c":0,
+            "d":0,
+            "e":0,
+            "f":0
+        }
+    },
+    {
+        "id":"14",
+        "titulo":"Diagnose Foliar - Trabalho IFTM Campus Uberlândia",
+        "descricao":"Trabalho desenvolvido por alunos do curso Técnico em Agropecuária da IFTM campus  Uberlândia!",
+        "link":"https://www.youtube.com/embed/-D7KCi0-A20?si=szKfb_C4-soSGj6z",
+        "avaliadores":[
+            {"idUsuario":"02"},
+            {"idUsuario":"04"}
+        ],
+        "avaliado":false,
+        "notas":{
+            "a":0,
+            "b":0,
+            "c":0,
+            "d":0,
+            "e":0,
+            "f":0
+        }
+    },
+    {
+        "id":"15",
+        "titulo":"Diagnose Foliar - Trabalho IFTM Campus Uberlândia",
+        "descricao":"Trabalho desenvolvido por alunos do curso Técnico em Agropecuária da IFTM campus  Uberlândia!",
+        "link":"https://www.youtube.com/embed/-D7KCi0-A20?si=szKfb_C4-soSGj6z",
+        "avaliadores":[
+            {"idUsuario":"02"},
+            {"idUsuario":"04"}
+        ],
+        "avaliado":false,
+        "notas":{
+            "a":0,
+            "b":0,
+            "c":0,
+            "d":0,
+            "e":0,
+            "f":0
+        }
+    },
+    {
+        "id":"16",
+        "titulo":"Diagnose Foliar - Trabalho IFTM Campus Uberlândia",
+        "descricao":"Trabalho desenvolvido por alunos do curso Técnico em Agropecuária da IFTM campus  Uberlândia!",
+        "link":"https://www.youtube.com/embed/-D7KCi0-A20?si=szKfb_C4-soSGj6z",
+        "avaliadores":[
+            {"idUsuario":"02"},
+            {"idUsuario":"04"}
+        ],
+        "avaliado":false,
+        "notas":{
+            "a":0,
+            "b":0,
+            "c":0,
+            "d":0,
+            "e":0,
+            "f":0
+        }
+    },
+    {
+        "id":"17",
+        "titulo":"Diagnose Foliar - Trabalho IFTM Campus Uberlândia",
+        "descricao":"Trabalho desenvolvido por alunos do curso Técnico em Agropecuária da IFTM campus  Uberlândia!",
+        "link":"https://www.youtube.com/embed/-D7KCi0-A20?si=szKfb_C4-soSGj6z",
+        "avaliadores":[
+            {"idUsuario":"02"},
+            {"idUsuario":"04"}
+        ],
+        "avaliado":false,
+        "notas":{
+            "a":0,
+            "b":0,
+            "c":0,
+            "d":0,
+            "e":0,
+            "f":0
+        }
+    },
+    {
+        "id":"18",
+        "titulo":"Diagnose Foliar - Trabalho IFTM Campus Uberlândia",
+        "descricao":"Trabalho desenvolvido por alunos do curso Técnico em Agropecuária da IFTM campus  Uberlândia!",
+        "link":"https://www.youtube.com/embed/-D7KCi0-A20?si=szKfb_C4-soSGj6z",
+        "avaliadores":[
+            {"idUsuario":"02"},
+            {"idUsuario":"04"}
+        ],
+        "avaliado":false,
+        "notas":{
+            "a":0,
+            "b":0,
+            "c":0,
+            "d":0,
+            "e":0,
+            "f":0
+        }
+    },
+    {
+        "id":"19",
+        "titulo":"Diagnose Foliar - Trabalho IFTM Campus Uberlândia",
+        "descricao":"Trabalho desenvolvido por alunos do curso Técnico em Agropecuária da IFTM campus  Uberlândia!",
+        "link":"https://www.youtube.com/embed/-D7KCi0-A20?si=szKfb_C4-soSGj6z",
+        "avaliadores":[
+            {"idUsuario":"02"},
+            {"idUsuario":"04"}
+        ],
+        "avaliado":false,
+        "notas":{
+            "a":0,
+            "b":0,
+            "c":0,
+            "d":0,
+            "e":0,
+            "f":0
+        }
+    },
+    {
+        "id":"20",
+        "titulo":"Diagnose Foliar - Trabalho IFTM Campus Uberlândia",
+        "descricao":"Trabalho desenvolvido por alunos do curso Técnico em Agropecuária da IFTM campus  Uberlândia!",
+        "link":"https://www.youtube.com/embed/-D7KCi0-A20?si=szKfb_C4-soSGj6z",
+        "avaliadores":[
+            {"idUsuario":"02"},
+            {"idUsuario":"04"}
+        ],
+        "avaliado":false,
+        "notas":{
+            "a":0,
+            "b":0,
+            "c":0,
+            "d":0,
+            "e":0,
+            "f":0
+        }
+    }
+]

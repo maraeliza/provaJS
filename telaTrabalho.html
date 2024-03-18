@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Encontro de Inovação</title>
+    <!--LINK DO BOOTSTRAP -->
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css"
+    />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="./css/style.css" />
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
+      integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <!--P5.js-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.10.2/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.10.2/addons/p5.sound.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.8.0/addons/p5.dom.min.js"></script>
+  </head>
+
+  <body>
+    <div class="menu">
+      <a href="telaEvento.html">EVENTOS</a>
+      <a href="telaPostar.html">POSTAR</a>
+      <a href="telaPostagens.html">POSTAGENS</a>
+      <a href="telaTrabalhos.html">TRABALHOS</a>
+    </div>
+    <center>
+      <h2 class="header"> TRABALHO </h2>
+
+        <div id="work">
+
+        </div>
+
+     
+      <div class="avaliacao" id="avalRes">
+        <h3 class="header">AVALIAÇÃO</h3>
+        <table id="tabelaNota">
+            <tr class="tabelaNota1">
+                <td>Critério de Avaliação</td>
+                <td>Nota</td>
+            </tr>
+            <tbody id="result">
+
+            </tbody>
+        </table>
+        <button  class="btn btn-success"  onclick="alterar()">
+            ALTERAR AVALIAÇÃO
+        </button>
+      </div>
+      <form class="avaliacao" id="avalForm">
+        <h3 class="header">AVALIAR</h3>
+        <div>
+          <label>Relevância e Originalidade <br> <span class="desc">A importância do tema de pesquisa e a originalidade da abordagem proposta. </span></label>
+          <div class="form-check">
+            <input class="form-check-input" type="radio" name="notaA" value="1">
+            <label class="form-check-label" for="notaA">1</label>
+
+            <input class="form-check-input" type="radio" name="notaA" value="2">
+            <label class="form-check-label" for="notaA">2</label>
+
+            <input class="form-check-input" type="radio" name="notaA" value="3">
+            <label class="form-check-label" for="notaA">3</label>
+
+            <input class="form-check-input" type="radio" name="notaA" value="4">
+            <label class="form-check-label" for="notaA">4</label>
+            
+            <input class="form-check-input" type="radio" name="notaA" value="5">
+            <label class="form-check-label" for="notaA">5</label>
+            
+            <input class="form-check-input" type="radio" name="notaA" value="6">
+            <label class="form-check-label" for="notaA">6</label>
+
+            <input class="form-check-input" type="radio" name="notaA" value="7">
+            <label class="form-check-label" for="notaA">7</label>
+
+            <input class="form-check-input" type="radio" name="notaA" value="8">
+            <label class="form-check-label" for="notaA">8</label>
+
+            <input class="form-check-input" type="radio" name="notaA" value="9">
+            <label class="form-check-label" for="notaA">9</label>
+            
+            <input class="form-check-input" type="radio" name="notaA" value="10">
+            <label class="form-check-label" for="notaA">10</label>
+            
+          </div>
+
+        </div>
+
+        <div>
+            <label>Fundamentação Teórica<br> <span class="desc">A consistência e qualidade da revisão bibliográfica que embasa o projeto. </span></label>
+            <div class="form-check">
+                <input class="form-check-input" type="radio" name="notaB" value="1">
+                <label class="form-check-label" for="notaB">1</label>
+    
+                <input class="form-check-input" type="radio" name="notaB" value="2">
+                <label class="form-check-label" for="notaB">2</label>
+    
+                <input class="form-check-input" type="radio" name="notaB" value="3">
+                <label class="form-check-label" for="notaB">3</label>
+    
+                <input class="form-check-input" type="radio" name="notaB" value="4">
+                <label class="form-check-label" for="notaB">4</label>
+                
+                <input class="form-check-input" type="radio" name="notaB" value="5">
+                <label class="form-check-label" for="notaB">5</label>
+                
+                <input class="form-check-input" type="radio" name="notaB" value="6">
+                <label class="form-check-label" for="notaB">6</label>
+    
+                <input class="form-check-input" type="radio" name="notaB" value="7">
+                <label class="form-check-label" for="notaB">7</label>
+    
+                <input class="form-check-input" type="radio" name="notaB" value="8">
+                <label class="form-check-label" for="notaB">8</label>
+    
+                <input class="form-check-input" type="radio" name="notaB" value="9">
+                <label class="form-check-label" for="notaB">9</label>
+                
+                <input class="form-check-input" type="radio" name="notaB" value="10">
+                <label class="form-check-label" for="notaB">10</label>
+                
+            </div>
+            <div>
+            <label>Metodologia<br> <span class="desc">: A clareza, viabilidade e adequação dos métodos propostos para realizar a pesquisa.  </span></label>
+            <div class="form-check">
+                <input class="form-check-input" type="radio" name="notaC" value="1">
+                <label class="form-check-label" for="notaC">1</label>
+    
+                <input class="form-check-input" type="radio" name="notaC" value="2">
+                <label class="form-check-label" for="notaC">2</label>
+    
+                <input class="form-check-input" type="radio" name="notaC" value="3">
+                <label class="form-check-label" for="notaC">3</label>
+    
+                <input class="form-check-input" type="radio" name="notaC" value="4">
+                <label class="form-check-label" for="notaC">4</label>
+                
+                <input class="form-check-input" type="radio" name="notaC" value="5">
+                <label class="form-check-label" for="notaC">5</label>
+                
+                <input class="form-check-input" type="radio" name="notaC" value="6">
+                <label class="form-check-label" for="notaC">6</label>
+    
+                <input class="form-check-input" type="radio" name="notaC" value="7">
+                <label class="form-check-label" for="notaC">7</label>
+    
+                <input class="form-check-input" type="radio" name="notaC" value="8">
+                <label class="form-check-label" for="notaC">8</label>
+    
+                <input class="form-check-input" type="radio" name="notaC" value="9">
+                <label class="form-check-label" for="notaC">9</label>
+                
+                <input class="form-check-input" type="radio" name="notaC" value="10">
+                <label class="form-check-label" for="notaC">10</label>
+                
+              </div>
+            <div>
+                <label>Contribuição Científica<br> <span class="desc">O potencial do projeto de contribuir para o avanço do conhecimento na área específica</span></label>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="notaD" value="1">
+                    <label class="form-check-label" for="notaD">1</label>
+        
+                    <input class="form-check-input" type="radio" name="notaD" value="2">
+                    <label class="form-check-label" for="notaD">2</label>
+        
+                    <input class="form-check-input" type="radio" name="notaD" value="3">
+                    <label class="form-check-label" for="notaD">3</label>
+        
+                    <input class="form-check-input" type="radio" name="notaD" value="4">
+                    <label class="form-check-label" for="notaD">4</label>
+                    
+                    <input class="form-check-input" type="radio" name="notaD" value="5">
+                    <label class="form-check-label" for="notaD">5</label>
+                    
+                    <input class="form-check-input" type="radio" name="notaD" value="6">
+                    <label class="form-check-label" for="notaD">6</label>
+        
+                    <input class="form-check-input" type="radio" name="notaD" value="7">
+                    <label class="form-check-label" for="notaD">7</label>
+        
+                    <input class="form-check-input" type="radio" name="notaD" value="8">
+                    <label class="form-check-label" for="notaD">8</label>
+        
+                    <input class="form-check-input" type="radio" name="notaD" value="9">
+                    <label class="form-check-label" for="notaD">9</label>
+                    
+                    <input class="form-check-input" type="radio" name="notaD" value="10">
+                    <label class="form-check-label" for="notaD">10</label>
+                    
+                </div>
+            <div>
+                <label>Viabilidade<br> <span class="desc">A factibilidade do projeto ser concluído dentro do período estabelecido e com os recursos disponíveis. </span></label>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="notaE" value="1">
+                    <label class="form-check-label" for="notaE">1</label>
+            
+                    <input class="form-check-input" type="radio" name="notaE" value="2">
+                    <label class="form-check-label" for="notaE">2</label>
+            
+                    <input class="form-check-input" type="radio" name="notaE" value="3">
+                    <label class="form-check-label" for="notaE">3</label>
+            
+                    <input class="form-check-input" type="radio" name="notaE" value="4">
+                    <label class="form-check-label" for="notaE">4</label>
+                    
+                    <input class="form-check-input" type="radio" name="notaE" value="5">
+                    <label class="form-check-label" for="notaE">5</label>
+                        
+                    <input class="form-check-input" type="radio" name="notaE" value="6">
+                    <label class="form-check-label" for="notaE">6</label>
+            
+                    <input class="form-check-input" type="radio" name="notaE" value="7">
+                    <label class="form-check-label" for="notaE">7</label>
+            
+                    <input class="form-check-input" type="radio" name="notaE" value="8">
+                    <label class="form-check-label" for="notaE">8</label>
+            
+                    <input class="form-check-input" type="radio" name="notaE" value="9">
+                    <label class="form-check-label" for="notaE">9</label>
+                        
+                    <input class="form-check-input" type="radio" name="notaE" value="10">
+                    <label class="form-check-label" for="notaE">10</label>
+                        
+                </div>
+            <div>
+                <label>Orientação<br> <span class="desc">A qualidade da orientação e suporte que será fornecido ao estudante durante a execução do projeto </span></label>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="notaF" value="1">
+                    <label class="form-check-label" for="notaF">1</label>
+        
+                    <input class="form-check-input" type="radio" name="notaF" value="2">
+                    <label class="form-check-label" for="notaF">2</label>
+        
+                    <input class="form-check-input" type="radio" name="notaF" value="3">
+                    <label class="form-check-label" for="notaF">3</label>
+        
+                    <input class="form-check-input" type="radio" name="notaF" value="4">
+                    <label class="form-check-label" for="notaF">4</label>
+                    
+                    <input class="form-check-input" type="radio" name="notaF" value="5">
+                    <label class="form-check-label" for="notaF">5</label>
+                    
+                    <input class="form-check-input" type="radio" name="notaF" value="6">
+                    <label class="form-check-label" for="notaF">6</label>
+        
+                    <input class="form-check-input" type="radio" name="notaF" value="7">
+                    <label class="form-check-label" for="notaF">7</label>
+        
+                    <input class="form-check-input" type="radio" name="notaF" value="8">
+                    <label class="form-check-label" for="notaF">8</label>
+        
+                    <input class="form-check-input" type="radio" name="notaF" value="9">
+                    <label class="form-check-label" for="notaF">9</label>
+                    
+                    <input class="form-check-input" type="radio" name="notaF" value="10">
+                    <label class="form-check-label" for="notaF">10</label>
+                    
+                  </div>
+
+            </div>                               
+            </div>
+            <button  class="btn btn-success" id="enviarBtn" onclick="enviar()">
+                ENVIAR
+            </button>
+      </form>
+    
+    </center>
+    <script src="js/codeAvaliar.js"></script>
+  </body>
+</html>

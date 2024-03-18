@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Encontro de Inovação</title>
+    <!--LINK DO BOOTSTRAP -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="./css/style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+     <!--P5.js-->
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.10.2/p5.js"></script>
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.10.2/addons/p5.sound.min.js"></script>
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.8.0/addons/p5.dom.min.js"></script>
+    <!--SALVAR ARQUIVOS-->
+    <script src="https://cdn.jsdelivr.net/npm/file-saver"></script>
+</head>
+
+<body>
+        <div class="menu">
+            <a href="telaEvento.html">EVENTOS</a>
+            <a href="telaPostar.html">POSTAR</a>
+            <a href="telaPostagens.html">POSTAGENS</a>
+            <a href="telaTrabalhos.html">TRABALHOS</a>
+        </div>
+    <center>
+
+        <h2 class="header">CRIAR SEU POST</h2>
+        <div>
+            <hr>
+
+            <div class="divPostar">
+                <label class="legenda">*Escreva o título: </label> 
+                <input id="titulo" class="form-control" placeholder="Digite aqui o título da sua publicação">
+                <br>
+                
+                <label  class="legenda">*Adicione a descrição: </label>
+                <textarea id="descricao" class="form-control" placeholder="Digite aqui mais detalhes do post" rows="5" ></textarea>
+                <br>
+
+                <label class="pic" tabIndex="0" for="pic_input">
+                    <input type="file" accept="image/*" name="pic_input" id="pic_input">
+                    <span class="pic_img">Escolha uma imagem</span>
+                </label>
+                <br>
+                <span id="nomeArquivo"></span>
+                <br>
+                
+
+                <button class="btn btn-success" onclick="enviar()">ENVIAR</button>
+            </div>
+
+        </div>
+    </center>
+    <script src="js/codePostar.js"></script>
+</body>
+
+</html>

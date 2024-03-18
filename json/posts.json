@@ -1,0 +1,217 @@
+[
+    {
+        "id":"00",
+        "titulo":"IFTM adere ao Programa Pé-de-meia",
+        "descricao":"O incentivo financeiro-educacional do governo federal é destinado a estudantes de baixa renda do ensino médio da rede pública. Pagamentos a beneficiários começarão a ser feitos em março e abril após seleção feita pelo Ministério da Educação",
+        "foto":"https://virtualif.iftm.edu.br/sdsgov/controlador2/load.php?src=c5d808ab72fd88012587d8ca1d8ea65b&tipo=noticia",
+        "idAutor":"05"
+    },
+    {
+        "id":"01",
+        "titulo":"Inscrições para o Prolif 2024 do IFTM seguem abertas",
+        "descricao":"O exame de proficiência em línguas acontece no dia 18 de maio em sete cidades onde a instituição possui unidade. Interessados podem se inscrever até o próximo dia 30 pela internet a um custo de R$49,90",
+        "foto":"https://virtualif.iftm.edu.br/sdsgov/controlador2/load.php?src=b1931eb11106a6b9e078d8df269bb6d8&tipo=noticia",
+        "idAutor":"03"
+    },
+    {
+        "id":"02",
+        "titulo":"Aula Inaugural do curso de Especialização de Ciência de Dados ocorreu na última sexta-feira, dia 8 de março",
+        "descricao":"A recepção aos novos discentes do curso de Especialização de Ciência de Dados ocorreu na última sexta-feira, dia 8 de março e contou com a participação de profissionais da UFTM e da Cargill",
+        "foto":"https://virtualif.iftm.edu.br/sdsgov/controlador2/load.php?src=c64efd9d81f78c366c40fb9676b7ed9a&tipo=noticia",
+        "idAutor":"02"
+    },
+    {
+        "id":"03",
+        "titulo":"Abertas as inscrições para estudantes que desejam atuar como monitores em 2024 no Campus Uberlândia Centro",
+        "descricao":"Interessados devem se inscrever até o dia 18 de março",
+        "foto":"https://virtualif.iftm.edu.br/sdsgov/controlador2/load.php?src=710e09e63fdf4aebe64194c692bed544&tipo=noticia",
+        "idAutor":"07"
+    },
+    {
+        "id":"04",
+        "titulo":"Edital de R$ 100 milhões incentiva o ingresso de mulheres na ciência",
+        "descricao":"Inscrições vão até 29 de abril. Iniciativa é uma parceria do CNPq, Ministério das Mulheres e MCTI.",
+        "foto":"https://virtualif.iftm.edu.br/sdsgov/controlador2/load.php?src=41f4d3c228f5957ca69fc690aa76b9ba&tipo=noticia",
+        "idAutor":"08"
+    },
+    {
+        "id":"05",
+        "titulo":"IFTM publica Chamada Pública destinada à captação de recursos financeiros para a realização da etapa institucional dos Jogos dos Institutos Federais 2024",
+        "descricao":"O evento esportivo acontecerá de 17 a 21 de junho em Uberaba com a participação de aproximadamente 600 estudantes atletas de todos os campi do Instituto. Instituições públicas e privadas podem contribuir com os Jogos por meio de cotas de patrocínio e/ou apoio. Para isso, devem se inscrever e submeter proposta até o próximo dia 24",
+        "foto":"https://virtualif.iftm.edu.br/sdsgov/controlador2/load.php?src=e22312052891807e659756d17b51fc96&tipo=noticia",
+        "idAutor":"09"
+    },
+    {
+        "id":"06",
+        "titulo":"Núcleo de Estudos de Diversidade, Sexualidade e Gênero do IFTM promove amistoso de futsal feminino em comemoração ao Dia Internacional das Mulheres",
+        "descricao":"A partida, disputada entre alunas dos cursos do Campus Uberaba, aconteceu no ginásio da instituição",
+        "foto":"https://virtualif.iftm.edu.br/sdsgov/controlador2/load.php?src=858273d5bf84aa180ab705e293361d1f&tipo=noticia",
+        "idAutor":"07"
+    },
+    {
+        "id":"07",
+        "titulo":"Estudante do IFTM Campus Ituiutaba conquista medalha de ouro na Olimpíada Nacional de Ciências 2023",
+        "descricao":"Maria Clara de Souza Nascimento, estudante do curso Técnico Integrado em Química, alcançou a medalha de ouro na Olimpíada Nacional de Ciências (ONC), destacando-se pela excelência e comprometimento. ",
+        "foto":"https://virtualif.iftm.edu.br/sdsgov/controlador2/load.php?src=7035d9718ab2d059214afa8758528235&tipo=noticia",
+        "idAutor":"05"
+    },
+
+
+
+    {
+        "id":"08",
+        "titulo":"Setor de Ovinocultura do IFTM Campus Uberaba recebe equipe da Expedição Bééé Brasil",
+        "descricao":"Os ovinos são herbívoros ruminantes e se alimentam principalmente de forragens encontradas nos pastos do setor. Durante épocas de seca, quando a produção de forragem diminui, são utilizadas silagens fermentadas como suplemento alimentar. Além disso, para atender às necessidades nutricionais dos animais, são oferecidas rações concentradas em cochos específicos",
+        "foto":"https://virtualif.iftm.edu.br/sdsgov/controlador2/load.php?src=d27ef6a00e29aa01d024680d1e1fbec9&tipo=noticia",
+        "idAutor":"04"
+    },
+    {
+        "id":"09",
+        "titulo":"Cida Gonçalves: Governo Federal está trabalhando para que todo dia seja dia das mulheres",
+        "descricao":"Em pronunciamento nacional, a ministra das Mulheres enfatizou o poder feminino na gestão atual e as conquistas lideradas pela pasta, como a aprovação da Lei de Igualdade Salarial, a criação do Programa Dignidade Menstrual e o Pacto Nacional de Prevenção aos Feminicídios",
+        "foto":"https://virtualif.iftm.edu.br/sdsgov/controlador2/load.php?src=d1ff2710429797086a800cf7a25e91af&tipo=noticia",
+        "idAutor":"03"
+    },
+    {
+        "id":"10",
+        "titulo":"Em comemoração ao Dia Internacional da Mulher, IFTM realiza o 1º Encontro do Projeto Mulheres Mil",
+        "descricao":"O evento acontece no dia 8 de março, às 13h, de forma on-line com transmissão ao vivo pelo canal da instituição no YouTube e marca o início do projeto no Instituto. O Mulheres Mil tem iniciativa do Governo Federal e visa promover a formação profissional e tecnológica articulada com aumento de escolaridade de mulheres em situação de vulnerabilidade social",
+        "foto":"https://virtualif.iftm.edu.br/sdsgov/controlador2/load.php?src=01e0010c3952260ed4b4c6702eb3320a&tipo=noticia",
+        "idAutor":"03"
+    },
+    {
+        "id":"11",
+        "titulo":"IFTM Campus Uberaba comemora 36 anos de participação no Serviço de Controle Leiteiro Oficial da raça Girolando",
+        "descricao":"Atualmente a instituição conta com 45 animais em lactação. Relatórios de controle auxiliam a gestão do rebanho",
+        "foto":"https://i.postimg.cc/Wp8zffF5/vacas.jpg",
+        "idAutor":"06"
+    },
+
+
+    {
+        "id":"12",
+        "titulo":"IFTM Campus Uberaba seleciona bolsistas para projetos de extensão",
+        "descricao":"Os estudantes interessados devem se inscrever entre os dias 13 e 18 de março. As bolsas variam de R$ 150 a R$ 700",
+        "foto":"https://virtualif.iftm.edu.br/sdsgov/controlador2/load.php?src=573952f2421cb076e70c22bad2412908&tipo=noticia",
+        "idAutor":"09"
+    },
+    {
+        "id":"13",
+        "titulo":"Estudantes do IFTM Campus Uberaba se preparam para escolha dos líderes estudantis",
+        "descricao":"Até o dia 11 de março, discentes dos cursos técnicos integrados ao ensino médio serão orientados sobre o processo de votação. O representante de turma deve ser comprometido tanto com o curso quanto com a instituição",
+        "foto":"https://virtualif.iftm.edu.br/sdsgov/controlador2/load.php?src=31102220f459e8e445c59206367d1a94&tipo=noticia",
+        "idAutor":"05"
+    },
+    {
+        "id":"14",
+        "titulo":"Aberto prazo para participação de servidores no Planejamento de Bens e Serviços 2025 do IFTM",
+        "descricao":"Desde 2013, a instituição adota planejamento participativo anual que, por meio de seus diversos centros de custos e de sistema informatizado, procura envolver os servidores no processo de planejamento de despesas de seus setores. Envio de demandas provisórias e solicitações até dia 27 de março",
+        "foto":"https://virtualif.iftm.edu.br/sdsgov/controlador2/load.php?src=c72f8f01ced13b47e124b132a985cc47&tipo=noticia",
+        "idAutor":"04"
+    },
+    {
+        "id":"15",
+        "titulo":"MCTI divulga tema da 21ª Semana Nacional de Ciência e Tecnologia",
+        "descricao":"“Biomas do Brasil: diversidade, saberes e tecnologias sociais” é o tema do maior evento de popularização da ciência do país",
+        "foto":"https://virtualif.iftm.edu.br/sdsgov/controlador2/load.php?src=334371b256285e56d7b6d3288a7fda8b&tipo=noticia",
+        "idAutor":"07"
+    },
+    {
+        "id":"16",
+        "titulo":"COMUNICADO À COMUNIDADE DO IFTM CAMPUS UBERLÂNDIA SOBRE A LIMPEZA",
+        "descricao":"Comunicado oficial da Direção-Geral do campus Uberlândia",
+        "foto":"https://virtualif.iftm.edu.br/sdsgov/controlador2/load.php?src=7eaa311e0fc9ad0ff6bcb889ef6a825c&tipo=noticia",
+        "idAutor":"08"
+    },
+    {
+        "id":"17",
+        "titulo":"Professor aposentado do IFTM Campus Uberaba, diagnosticado com Esclerose Lateral Amiotrófica, conta em livro sua experiência com a doença",
+        "descricao":"“Esclerose Lateral Amiotrófica: ELA e EU” será lançado no dia 9 de março no auditório do IFTM Campus Avançado Uberaba Parque Tecnológico. ELA é considerada uma doença grave, degenerativa e sem cura",
+        "foto":"https://virtualif.iftm.edu.br/sdsgov/controlador2/load.php?src=9eafe9854855052b73e6fa47e9c84288&tipo=noticia",
+        "idAutor":"06"
+    },
+    {
+        "id":"18",
+        "titulo":"MEC Conecta lista cursos superiores de todo o País",
+        "descricao":"Plataforma busca aproximar estudantes, professores e público geral ao ensino superior e oferecer mais informações sobre os cursos, as vagas e as instituições de ensino",
+        "foto":"https://virtualif.iftm.edu.br/sdsgov/controlador2/load.php?src=adc4232b1223ec10fd3ba1f7740f3628&tipo=noticia",
+        "idAutor":"04"
+    },
+    {
+        "id":"19",
+        "titulo":"Projeto do Campus premiado em III Olimpíada do Oceano encara desafio internacional este ano",
+        "descricao":"Equipe de estudantes do IFTM Uberlândia Centro se classificou para etapa internacional da competição depois de brilhar em fases regional e nacional em 2023",
+        "foto":"https://virtualif.iftm.edu.br/sdsgov/controlador2/load.php?src=4da06d8cc4fc05c2893b28fb9574eed5&tipo=noticia",
+        "idAutor":"01"
+    },
+    {
+        "id":"20",
+        "titulo":"Realizada Solenidade de Outorga de Grau dos cursos de graduação do IFTM Campus Uberaba",
+        "descricao":"Foram outorgados, ontem à noite, os formandos dos cursos de Bacharelados, Licenciaturas e Tecnologia",
+        "foto":"https://virtualif.iftm.edu.br/sdsgov/controlador2/load.php?src=6aaa66de212dd38837138c46d77d81cb&tipo=noticia",
+        "idAutor":"05"
+    },
+    {
+        "id":"21",
+        "titulo":"IFTM Campus Uberaba do IFTM oferece 170 vagas remanescentes em cursos técnicos e de graduação",
+        "descricao":"As inscrições seguem abertas até o dia 18 de fevereiro e são gratuitas. O resultado preliminar será divulgado no dia 23 de fevereiro, e o resultado final, no dia 28 de fevereiro, após análise de eventuais recursos",
+        "foto":"https://virtualif.iftm.edu.br/sdsgov/controlador2/load.php?src=10db15c3b923a3b1c63af255f66ac362&tipo=noticia",
+        "idAutor":"04"
+    },
+    {
+        "id":"22",
+        "titulo":"Campus Uberlândia Centro vai iniciar o ano letivo de 2024 com computadores novos em três laboratórios de informática",
+        "descricao":"Com nova aquisição, IFTM Udicentro completa a renovação de todos os laboratórios nos últimos dois anos",
+        "foto":"https://virtualif.iftm.edu.br/sdsgov/controlador2/load.php?src=7c67c18b609ffd68b967f720bcd89cf5&tipo=noticia",
+        "idAutor":"05"
+    },
+    {
+        "id":"23",
+        "titulo":"Clube de Química do IFTM Udicentro ganha repercusão internacional",
+        "descricao":"Artigo que mostra a experiência do Clube no Campus foi publicado em revista científica de Química",
+        "foto":"https://virtualif.iftm.edu.br/sdsgov/controlador2/load.php?src=d3f0d5494a8bf9e09484695bf71ed780&tipo=noticia",
+        "idAutor":"09"
+    },
+    {
+        "id":"24",
+        "titulo":"Empossados os diretores do IFTM Campus Uberaba e do IFTM Campus Avançado Uberaba Parque Tecnológico",
+        "descricao":"Em cerimônia realizada na última quarta-feira (7/2) no auditório da Coordenação Geral de Atendimento ao Estudante do IFTM Campus Uberaba, os professores Bruno Pereira Garcês e José Ricardo Gonçalves Manzan assumiram seus cargos para mandato de quatro anos",
+        "foto":"https://virtualif.iftm.edu.br/sdsgov/controlador2/load.php?src=113ca4a1dff94c21d79af5025e3673f6&tipo=noticia",
+        "idAutor":"08"
+    },
+    {
+        "id":"25",
+        "titulo":"IFTM participa da 1ª Conferência Temática dos Trabalhadores da Cultura em São Paulo",
+        "descricao":"O objetivo do evento foi reunir as mais diversas representações ligadas à Cultura para o estabelecimento de diálogo e construção de propostas, que deverão atender às demandas dos trabalhadores das Áreas Técnicas, Arte e Cultura, e que serão encaminhadas para a 4ª Conferência Nacional de Cultura",
+        "foto":"https://virtualif.iftm.edu.br/sdsgov/controlador2/load.php?src=965d77773e7841926fe930bea9c25860&tipo=noticia",
+        "idAutor":"07"
+    },
+    {
+        "id":"26",
+        "titulo":"Realizada cerimônia de posse do novo diretor-geral do IFTM Campus Ituiutaba",
+        "descricao":"A solenidade aconteceu no dia 5 de fevereiro na unidade e reuniu a comunidade interna e a comunidade externa, de forma a fortalecer vínculos com personalidades regionais e reforçar o comprometimento do IFTM com a excelência educacional e a transformação social",
+        "foto":"https://virtualif.iftm.edu.br/sdsgov/controlador2/load.php?src=05588fce480d39ca92570f7060e84239&tipo=noticia",
+        "idAutor":"06"
+    },
+    {
+        "id":"27",
+        "titulo":"Novo diretor-geral do IFTM Campus Uberlândia é empossado",
+        "descricao":"Sérgio Luiz de Freitas Maia tomou posse na última terça-feira (6/2) em cerimônia que contou com a presença de servidores, estudantes e diversos membros da comunidade externa celebrando o início de um novo ciclo na gestão da unidade",
+        "foto":"https://virtualif.iftm.edu.br/sdsgov/controlador2/load.php?src=b694ac3719a145575a9e5ca3c512237a&tipo=noticia",
+        "idAutor":"04"
+    },
+    {
+        "id":"28",
+        "titulo":"Estudante retorna ao Brasil depois de participar do programa Jovens Embaixadores 2024, nos Estados Unidos",
+        "descricao":"Pedro Jorge Alves Soares, estudante do IFTM Campus Uberlândia Centro até 2023, integrou a delegação brasileira nos Estados Unidos, juntamente com 45 outros estudantes do país",
+        "foto":"https://virtualif.iftm.edu.br/sdsgov/controlador2/load.php?src=ac66ae88b2f72ab844eb702794d46d23&tipo=noticia",
+        "idAutor":"06"
+    },
+    {
+        "id":"29",
+        "titulo":"IFTM Campus Uberaba inicia as atividades da primeira Semana Pedagógica do ano",
+        "descricao":"As atividades que tiveram início no dia 1º de fevereiro, seguem até o dia 9. A programação conta com a posse dos diretores dos campi Uberaba e Avançado Uberaba Parque Tecnológico, no dia 7 de fevereiro, a partir das 16h",
+        "foto":"https://virtualif.iftm.edu.br/sdsgov/controlador2/load.php?src=8408a4fb5fb2bda62b2404c7a23ae358&tipo=noticia",
+        "idAutor":"02"
+    }
+]

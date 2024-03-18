@@ -1,0 +1,22 @@
+[
+    {
+        "id":"01",
+        "nome":"Seminário de Iniciação Científica e Inovação Tecnológica do IFTM",
+        "inicio":"19/09/2024",
+        "termino":"08/12/2024"
+    },
+
+    {
+        "id":"02",
+        "nome":"HACKATON IFTM Agronegócio na era digital",
+        "inicio":"05/11/2023",
+        "termino":"06/11/2023"
+    },
+    
+    {
+        "id":"03",
+        "nome":"PROJETOS DE ENSINO IFTM-CAMPUS UBERLANDIA - 2024",
+        "inicio":"01/03/2024",
+        "termino":"02/10/2024"
+    }
+]
